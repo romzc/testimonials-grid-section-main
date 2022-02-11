@@ -101,6 +101,9 @@ body > .left {
 .daniel {
     grid-area: daniel;
     background-color: var(--moderate-violet);
+    background-image: url("./images/bg-pattern-quotation.svg");
+    background-repeat: no-repeat;
+    background-position-x: 20rem;
     color: var(--light-grayish-blue)
 }
 
