@@ -104,7 +104,7 @@ body > .left {
     background-image: url("./images/bg-pattern-quotation.svg");
     background-repeat: no-repeat;
     background-position-x: 20rem;
-    color: var(--light-grayish-blue)
+    color: var(--light-grayish-blue);
 }
 
 .daniel span {
