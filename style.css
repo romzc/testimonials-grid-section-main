@@ -178,7 +178,7 @@ body > .left {
 p {
     font-size: 0.8125rem;
 }
-@media (max-width: 400px) {
+@media (max-width: 1000px) {
     body > .left {
         grid-template-areas: "daniel"
                              "jonathan"
